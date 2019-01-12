@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Tron Tab - Market info on every new tab.",
+    "name": "Tron Tab - Streaming price & market info.",
     "short_name": "Tron Tab",
-    "version": "1.0.1",
-    "description": "Realtime Tron (TRX) dashboard delivering streaming price, news, social posts, and code checkins on every new tab.",
+    "version": "1.0.2",
+    "description": "Replace the New Tab with streaming price, news, community updates, and more.",
     "default_locale": "en",
     "icons": {
         "16": "img/img_16.png",
